@@ -14,7 +14,7 @@
 - 🏃‍♀️ Hobbies: Running, Hiking, Reading, Socialising.
 - ⚡ Fun fact: I used to be a teacher and have a BEd in Elementary Education and Teaching.
 
-- - 💬 [LinkedIn](www.linkedin.com/in/therese-bancel-vik-487a77349)
+- - 💬 [LinkedIn](https://www.linkedin.com/in/therese-bancel-vik-487a77349)
 
 <!---
 vuovdi/vuovdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
